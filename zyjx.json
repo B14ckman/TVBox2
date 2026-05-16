@@ -1,20 +1,28 @@
 {
   "urls": [
     {
-      "url": "https://毒盒.com/tv",
-      "name": "公众号【毒盒影视】"
-    },
-    {
-      "url": "https://xn--8owq8u.com/tv/",
-      "name": "毒盒备用"
-    },
-    {
-      "url": "http://www.饭太硬.com/tv",
+      "url": "http://www.饭太硬.net/tv",
       "name": "饭太硬线路"
     },
     {
-      "url": "http://肥猫.com",
+      "url": "http://www.饭太硬.cc/tv",
+      "name": "饭太硬备用1"
+    },
+    {
+      "url": "http://fty.xxooo.cf/tv",
+      "name": "饭太硬备用2"
+    },
+    {
+      "url": "http://肥猫.net",
       "name": "肥猫线路"
+    },
+    {
+      "url": "http://hello.肥猫.net",
+      "name": "肥猫备用1"
+    },
+    {
+      "url": "http://肥猫.net/tv",
+      "name": "肥猫备用2"
     },
     {
       "url": "https://xn--54qz74d.u.xn--dkw.xn--6qq986b3xl/apib.php?id=2",
