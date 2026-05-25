@@ -1,0 +1,31 @@
+{
+  "sites": [
+    {
+      "key": "量子",
+      "name": "恭喜发财",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "非凡",
+      "name": "恭喜发财",
+      "type": 1,
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "暴风",
+      "name": "恭喜发财",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "playerType": 2
+    }
+  ]
+}
