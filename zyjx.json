@@ -1,8 +1,12 @@
 {
   "urls": [
     {
-      "url": "http://www.饭太硬.art/tv",
+      "url": "http://www.饭太硬.net/tv",
       "name": "饭太硬线路"
+    },
+    {
+      "url": "http://www.饭太硬.art/tv",
+      "name": "饭太硬备用"
     },
     {
       "url": "http://www.饭太硬.cc/tv",
